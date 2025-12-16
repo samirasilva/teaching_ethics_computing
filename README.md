@@ -1,4 +1,4 @@
-# teaching_ethics_computing
+# Ethics and Legislation in Computing
 
 # Ethics and Legislation in Computing
 
