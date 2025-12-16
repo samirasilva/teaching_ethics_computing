@@ -1,7 +1,5 @@
 # Ethics and Legislation in Computing
 
-# Ethics and Legislation in Computing
-
 **Paper Title**: Integration of Community Outreach into the Teaching of Ethics and Legislation in Computing: An Experience Report
 
 **Submitted to**: Simpósio Brasileiro de Educação em Computação (EduComp) 2026
